@@ -1,0 +1,115 @@
+2024-12-03 15:26:10 python_multipart.multipart     DEBUG    Calling on_part_begin with no data
+2024-12-03 15:26:10 python_multipart.multipart     DEBUG    Calling on_header_field with data[54:73]
+2024-12-03 15:26:10 python_multipart.multipart     DEBUG    Calling on_header_value with data[75:127]
+2024-12-03 15:26:10 python_multipart.multipart     DEBUG    Calling on_header_end with no data
+2024-12-03 15:26:10 python_multipart.multipart     DEBUG    Calling on_header_field with data[129:141]
+2024-12-03 15:26:10 python_multipart.multipart     DEBUG    Calling on_header_value with data[143:153]
+2024-12-03 15:26:10 python_multipart.multipart     DEBUG    Calling on_header_end with no data
+2024-12-03 15:26:10 python_multipart.multipart     DEBUG    Calling on_headers_finished with no data
+2024-12-03 15:26:10 python_multipart.multipart     DEBUG    Calling on_part_data with data[157:131229]
+2024-12-03 15:26:10 python_multipart.multipart     DEBUG    Calling on_part_data with data[0:262144]
+2024-12-03 15:26:10 python_multipart.multipart     DEBUG    Calling on_part_data with data[0:262144]
+2024-12-03 15:26:10 python_multipart.multipart     DEBUG    Calling on_part_data with data[0:262144]
+2024-12-03 15:26:10 python_multipart.multipart     DEBUG    Calling on_part_data with data[0:262144]
+2024-12-03 15:26:11 python_multipart.multipart     DEBUG    Calling on_part_data with data[0:262144]
+2024-12-03 15:26:11 python_multipart.multipart     DEBUG    Calling on_part_data with data[0:165542]
+2024-12-03 15:26:11 python_multipart.multipart     DEBUG    Calling on_part_end with no data
+2024-12-03 15:26:11 python_multipart.multipart     DEBUG    Calling on_part_begin with no data
+2024-12-03 15:26:11 python_multipart.multipart     DEBUG    Calling on_header_field with data[165598:165617]
+2024-12-03 15:26:11 python_multipart.multipart     DEBUG    Calling on_header_value with data[165619:165648]
+2024-12-03 15:26:11 python_multipart.multipart     DEBUG    Calling on_header_end with no data
+2024-12-03 15:26:11 python_multipart.multipart     DEBUG    Calling on_headers_finished with no data
+2024-12-03 15:26:11 python_multipart.multipart     DEBUG    Calling on_part_data with data[165652:165656]
+2024-12-03 15:26:11 python_multipart.multipart     DEBUG    Calling on_part_end with no data
+2024-12-03 15:26:11 python_multipart.multipart     DEBUG    Calling on_end with no data
+2024-12-03 15:26:11 main                           DEBUG    upload_file alert_eisgs00.log, multisting is True
+2024-12-03 15:26:11 utils.logparser                DEBUG    Обработка мультистрингового лога
+2024-12-03 15:26:11 utils.logparser                INFO     файл получен
+2024-12-03 15:26:11 utils.logparser                INFO     start
+2024-12-03 15:26:11 utils.logparser                INFO     Размер файла 1607334
+2024-12-03 15:29:43 python_multipart.multipart     DEBUG    Calling on_part_begin with no data
+2024-12-03 15:29:43 python_multipart.multipart     DEBUG    Calling on_header_field with data[54:73]
+2024-12-03 15:29:43 python_multipart.multipart     DEBUG    Calling on_header_value with data[75:127]
+2024-12-03 15:29:43 python_multipart.multipart     DEBUG    Calling on_header_end with no data
+2024-12-03 15:29:43 python_multipart.multipart     DEBUG    Calling on_header_field with data[129:141]
+2024-12-03 15:29:43 python_multipart.multipart     DEBUG    Calling on_header_value with data[143:153]
+2024-12-03 15:29:43 python_multipart.multipart     DEBUG    Calling on_header_end with no data
+2024-12-03 15:29:43 python_multipart.multipart     DEBUG    Calling on_headers_finished with no data
+2024-12-03 15:29:43 python_multipart.multipart     DEBUG    Calling on_part_data with data[0:262144]
+2024-12-03 15:29:43 python_multipart.multipart     DEBUG    Calling on_part_data with data[0:262144]
+2024-12-03 15:29:43 python_multipart.multipart     DEBUG    Calling on_part_data with data[0:262144]
+2024-12-03 15:29:43 python_multipart.multipart     DEBUG    Calling on_part_data with data[0:262144]
+2024-12-03 15:29:43 python_multipart.multipart     DEBUG    Calling on_part_data with data[0:262144]
+2024-12-03 15:29:43 python_multipart.multipart     DEBUG    Calling on_part_data with data[0:262144]
+2024-12-03 15:29:43 python_multipart.multipart     DEBUG    Calling on_part_data with data[0:34470]
+2024-12-03 15:29:43 python_multipart.multipart     DEBUG    Calling on_part_end with no data
+2024-12-03 15:29:43 python_multipart.multipart     DEBUG    Calling on_part_begin with no data
+2024-12-03 15:29:43 python_multipart.multipart     DEBUG    Calling on_header_field with data[34526:34545]
+2024-12-03 15:29:43 python_multipart.multipart     DEBUG    Calling on_header_value with data[34547:34576]
+2024-12-03 15:29:43 python_multipart.multipart     DEBUG    Calling on_header_end with no data
+2024-12-03 15:29:43 python_multipart.multipart     DEBUG    Calling on_headers_finished with no data
+2024-12-03 15:29:43 python_multipart.multipart     DEBUG    Calling on_part_data with data[34580:34584]
+2024-12-03 15:29:43 python_multipart.multipart     DEBUG    Calling on_part_end with no data
+2024-12-03 15:29:43 python_multipart.multipart     DEBUG    Calling on_end with no data
+2024-12-03 15:29:43 main                           DEBUG    upload_file alert_eisgs00.log, multisting is True
+2024-12-03 15:29:43 utils.logparser                DEBUG    Обработка мультистрингового лога
+2024-12-03 15:29:43 utils.logparser                INFO     файл получен
+2024-12-03 15:29:43 utils.logparser                INFO     start
+2024-12-03 15:29:43 utils.logparser                INFO     Размер файла 1607334
+2024-12-03 15:29:43 utils.logparser                INFO     stop
+2024-12-03 15:30:38 python_multipart.multipart     DEBUG    Calling on_part_begin with no data
+2024-12-03 15:30:38 python_multipart.multipart     DEBUG    Calling on_header_field with data[54:73]
+2024-12-03 15:30:38 python_multipart.multipart     DEBUG    Calling on_header_value with data[75:127]
+2024-12-03 15:30:38 python_multipart.multipart     DEBUG    Calling on_header_end with no data
+2024-12-03 15:30:38 python_multipart.multipart     DEBUG    Calling on_header_field with data[129:141]
+2024-12-03 15:30:38 python_multipart.multipart     DEBUG    Calling on_header_value with data[143:153]
+2024-12-03 15:30:38 python_multipart.multipart     DEBUG    Calling on_header_end with no data
+2024-12-03 15:30:38 python_multipart.multipart     DEBUG    Calling on_headers_finished with no data
+2024-12-03 15:30:38 python_multipart.multipart     DEBUG    Calling on_part_data with data[0:262144]
+2024-12-03 15:30:38 python_multipart.multipart     DEBUG    Calling on_part_data with data[0:262144]
+2024-12-03 15:30:38 python_multipart.multipart     DEBUG    Calling on_part_data with data[0:262144]
+2024-12-03 15:30:38 python_multipart.multipart     DEBUG    Calling on_part_data with data[0:262144]
+2024-12-03 15:30:38 python_multipart.multipart     DEBUG    Calling on_part_data with data[0:262144]
+2024-12-03 15:30:38 python_multipart.multipart     DEBUG    Calling on_part_data with data[0:262144]
+2024-12-03 15:30:39 python_multipart.multipart     DEBUG    Calling on_part_data with data[0:34470]
+2024-12-03 15:30:39 python_multipart.multipart     DEBUG    Calling on_part_end with no data
+2024-12-03 15:30:39 python_multipart.multipart     DEBUG    Calling on_part_begin with no data
+2024-12-03 15:30:39 python_multipart.multipart     DEBUG    Calling on_header_field with data[34526:34545]
+2024-12-03 15:30:39 python_multipart.multipart     DEBUG    Calling on_header_value with data[34547:34576]
+2024-12-03 15:30:39 python_multipart.multipart     DEBUG    Calling on_header_end with no data
+2024-12-03 15:30:39 python_multipart.multipart     DEBUG    Calling on_headers_finished with no data
+2024-12-03 15:30:39 python_multipart.multipart     DEBUG    Calling on_part_data with data[34580:34584]
+2024-12-03 15:30:39 python_multipart.multipart     DEBUG    Calling on_part_end with no data
+2024-12-03 15:30:39 python_multipart.multipart     DEBUG    Calling on_end with no data
+2024-12-03 15:30:39 main                           DEBUG    upload_file alert_eisgs00.log, multisting is True
+2024-12-03 15:30:39 utils.logparser                DEBUG    Обработка мультистрингового лога
+2024-12-03 15:30:39 utils.logparser                INFO     файл получен
+2024-12-03 15:30:39 utils.logparser                INFO     Размер файла 1607334
+2024-12-03 15:32:19 python_multipart.multipart     DEBUG    Calling on_part_begin with no data
+2024-12-03 15:32:19 python_multipart.multipart     DEBUG    Calling on_header_field with data[54:73]
+2024-12-03 15:32:19 python_multipart.multipart     DEBUG    Calling on_header_value with data[75:127]
+2024-12-03 15:32:19 python_multipart.multipart     DEBUG    Calling on_header_end with no data
+2024-12-03 15:32:19 python_multipart.multipart     DEBUG    Calling on_header_field with data[129:141]
+2024-12-03 15:32:19 python_multipart.multipart     DEBUG    Calling on_header_value with data[143:153]
+2024-12-03 15:32:19 python_multipart.multipart     DEBUG    Calling on_header_end with no data
+2024-12-03 15:32:19 python_multipart.multipart     DEBUG    Calling on_headers_finished with no data
+2024-12-03 15:32:19 python_multipart.multipart     DEBUG    Calling on_part_data with data[0:262144]
+2024-12-03 15:32:19 python_multipart.multipart     DEBUG    Calling on_part_data with data[0:262144]
+2024-12-03 15:32:19 python_multipart.multipart     DEBUG    Calling on_part_data with data[0:262144]
+2024-12-03 15:32:19 python_multipart.multipart     DEBUG    Calling on_part_data with data[0:262144]
+2024-12-03 15:32:19 python_multipart.multipart     DEBUG    Calling on_part_data with data[0:262144]
+2024-12-03 15:32:19 python_multipart.multipart     DEBUG    Calling on_part_data with data[0:262144]
+2024-12-03 15:32:19 python_multipart.multipart     DEBUG    Calling on_part_data with data[0:34470]
+2024-12-03 15:32:19 python_multipart.multipart     DEBUG    Calling on_part_end with no data
+2024-12-03 15:32:19 python_multipart.multipart     DEBUG    Calling on_part_begin with no data
+2024-12-03 15:32:19 python_multipart.multipart     DEBUG    Calling on_header_field with data[34526:34545]
+2024-12-03 15:32:19 python_multipart.multipart     DEBUG    Calling on_header_value with data[34547:34576]
+2024-12-03 15:32:19 python_multipart.multipart     DEBUG    Calling on_header_end with no data
+2024-12-03 15:32:19 python_multipart.multipart     DEBUG    Calling on_headers_finished with no data
+2024-12-03 15:32:19 python_multipart.multipart     DEBUG    Calling on_part_data with data[34580:34584]
+2024-12-03 15:32:19 python_multipart.multipart     DEBUG    Calling on_part_end with no data
+2024-12-03 15:32:19 python_multipart.multipart     DEBUG    Calling on_end with no data
+2024-12-03 15:32:19 main                           DEBUG    upload_file alert_eisgs00.log, multisting is True
+2024-12-03 15:32:19 utils.logparser                DEBUG    Обработка мультистрингового лога
+2024-12-03 15:32:19 utils.logparser                INFO     файл получен
+2024-12-03 15:32:19 utils.logparser                INFO     Размер файла 1607334
