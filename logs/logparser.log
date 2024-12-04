@@ -1,115 +1,322 @@
-2024-12-03 15:26:10 python_multipart.multipart     DEBUG    Calling on_part_begin with no data
-2024-12-03 15:26:10 python_multipart.multipart     DEBUG    Calling on_header_field with data[54:73]
-2024-12-03 15:26:10 python_multipart.multipart     DEBUG    Calling on_header_value with data[75:127]
-2024-12-03 15:26:10 python_multipart.multipart     DEBUG    Calling on_header_end with no data
-2024-12-03 15:26:10 python_multipart.multipart     DEBUG    Calling on_header_field with data[129:141]
-2024-12-03 15:26:10 python_multipart.multipart     DEBUG    Calling on_header_value with data[143:153]
-2024-12-03 15:26:10 python_multipart.multipart     DEBUG    Calling on_header_end with no data
-2024-12-03 15:26:10 python_multipart.multipart     DEBUG    Calling on_headers_finished with no data
-2024-12-03 15:26:10 python_multipart.multipart     DEBUG    Calling on_part_data with data[157:131229]
-2024-12-03 15:26:10 python_multipart.multipart     DEBUG    Calling on_part_data with data[0:262144]
-2024-12-03 15:26:10 python_multipart.multipart     DEBUG    Calling on_part_data with data[0:262144]
-2024-12-03 15:26:10 python_multipart.multipart     DEBUG    Calling on_part_data with data[0:262144]
-2024-12-03 15:26:10 python_multipart.multipart     DEBUG    Calling on_part_data with data[0:262144]
-2024-12-03 15:26:11 python_multipart.multipart     DEBUG    Calling on_part_data with data[0:262144]
-2024-12-03 15:26:11 python_multipart.multipart     DEBUG    Calling on_part_data with data[0:165542]
-2024-12-03 15:26:11 python_multipart.multipart     DEBUG    Calling on_part_end with no data
-2024-12-03 15:26:11 python_multipart.multipart     DEBUG    Calling on_part_begin with no data
-2024-12-03 15:26:11 python_multipart.multipart     DEBUG    Calling on_header_field with data[165598:165617]
-2024-12-03 15:26:11 python_multipart.multipart     DEBUG    Calling on_header_value with data[165619:165648]
-2024-12-03 15:26:11 python_multipart.multipart     DEBUG    Calling on_header_end with no data
-2024-12-03 15:26:11 python_multipart.multipart     DEBUG    Calling on_headers_finished with no data
-2024-12-03 15:26:11 python_multipart.multipart     DEBUG    Calling on_part_data with data[165652:165656]
-2024-12-03 15:26:11 python_multipart.multipart     DEBUG    Calling on_part_end with no data
-2024-12-03 15:26:11 python_multipart.multipart     DEBUG    Calling on_end with no data
-2024-12-03 15:26:11 main                           DEBUG    upload_file alert_eisgs00.log, multisting is True
-2024-12-03 15:26:11 utils.logparser                DEBUG    Обработка мультистрингового лога
-2024-12-03 15:26:11 utils.logparser                INFO     файл получен
-2024-12-03 15:26:11 utils.logparser                INFO     start
-2024-12-03 15:26:11 utils.logparser                INFO     Размер файла 1607334
-2024-12-03 15:29:43 python_multipart.multipart     DEBUG    Calling on_part_begin with no data
-2024-12-03 15:29:43 python_multipart.multipart     DEBUG    Calling on_header_field with data[54:73]
-2024-12-03 15:29:43 python_multipart.multipart     DEBUG    Calling on_header_value with data[75:127]
-2024-12-03 15:29:43 python_multipart.multipart     DEBUG    Calling on_header_end with no data
-2024-12-03 15:29:43 python_multipart.multipart     DEBUG    Calling on_header_field with data[129:141]
-2024-12-03 15:29:43 python_multipart.multipart     DEBUG    Calling on_header_value with data[143:153]
-2024-12-03 15:29:43 python_multipart.multipart     DEBUG    Calling on_header_end with no data
-2024-12-03 15:29:43 python_multipart.multipart     DEBUG    Calling on_headers_finished with no data
-2024-12-03 15:29:43 python_multipart.multipart     DEBUG    Calling on_part_data with data[0:262144]
-2024-12-03 15:29:43 python_multipart.multipart     DEBUG    Calling on_part_data with data[0:262144]
-2024-12-03 15:29:43 python_multipart.multipart     DEBUG    Calling on_part_data with data[0:262144]
-2024-12-03 15:29:43 python_multipart.multipart     DEBUG    Calling on_part_data with data[0:262144]
-2024-12-03 15:29:43 python_multipart.multipart     DEBUG    Calling on_part_data with data[0:262144]
-2024-12-03 15:29:43 python_multipart.multipart     DEBUG    Calling on_part_data with data[0:262144]
-2024-12-03 15:29:43 python_multipart.multipart     DEBUG    Calling on_part_data with data[0:34470]
-2024-12-03 15:29:43 python_multipart.multipart     DEBUG    Calling on_part_end with no data
-2024-12-03 15:29:43 python_multipart.multipart     DEBUG    Calling on_part_begin with no data
-2024-12-03 15:29:43 python_multipart.multipart     DEBUG    Calling on_header_field with data[34526:34545]
-2024-12-03 15:29:43 python_multipart.multipart     DEBUG    Calling on_header_value with data[34547:34576]
-2024-12-03 15:29:43 python_multipart.multipart     DEBUG    Calling on_header_end with no data
-2024-12-03 15:29:43 python_multipart.multipart     DEBUG    Calling on_headers_finished with no data
-2024-12-03 15:29:43 python_multipart.multipart     DEBUG    Calling on_part_data with data[34580:34584]
-2024-12-03 15:29:43 python_multipart.multipart     DEBUG    Calling on_part_end with no data
-2024-12-03 15:29:43 python_multipart.multipart     DEBUG    Calling on_end with no data
-2024-12-03 15:29:43 main                           DEBUG    upload_file alert_eisgs00.log, multisting is True
-2024-12-03 15:29:43 utils.logparser                DEBUG    Обработка мультистрингового лога
-2024-12-03 15:29:43 utils.logparser                INFO     файл получен
-2024-12-03 15:29:43 utils.logparser                INFO     start
-2024-12-03 15:29:43 utils.logparser                INFO     Размер файла 1607334
-2024-12-03 15:29:43 utils.logparser                INFO     stop
-2024-12-03 15:30:38 python_multipart.multipart     DEBUG    Calling on_part_begin with no data
-2024-12-03 15:30:38 python_multipart.multipart     DEBUG    Calling on_header_field with data[54:73]
-2024-12-03 15:30:38 python_multipart.multipart     DEBUG    Calling on_header_value with data[75:127]
-2024-12-03 15:30:38 python_multipart.multipart     DEBUG    Calling on_header_end with no data
-2024-12-03 15:30:38 python_multipart.multipart     DEBUG    Calling on_header_field with data[129:141]
-2024-12-03 15:30:38 python_multipart.multipart     DEBUG    Calling on_header_value with data[143:153]
-2024-12-03 15:30:38 python_multipart.multipart     DEBUG    Calling on_header_end with no data
-2024-12-03 15:30:38 python_multipart.multipart     DEBUG    Calling on_headers_finished with no data
-2024-12-03 15:30:38 python_multipart.multipart     DEBUG    Calling on_part_data with data[0:262144]
-2024-12-03 15:30:38 python_multipart.multipart     DEBUG    Calling on_part_data with data[0:262144]
-2024-12-03 15:30:38 python_multipart.multipart     DEBUG    Calling on_part_data with data[0:262144]
-2024-12-03 15:30:38 python_multipart.multipart     DEBUG    Calling on_part_data with data[0:262144]
-2024-12-03 15:30:38 python_multipart.multipart     DEBUG    Calling on_part_data with data[0:262144]
-2024-12-03 15:30:38 python_multipart.multipart     DEBUG    Calling on_part_data with data[0:262144]
-2024-12-03 15:30:39 python_multipart.multipart     DEBUG    Calling on_part_data with data[0:34470]
-2024-12-03 15:30:39 python_multipart.multipart     DEBUG    Calling on_part_end with no data
-2024-12-03 15:30:39 python_multipart.multipart     DEBUG    Calling on_part_begin with no data
-2024-12-03 15:30:39 python_multipart.multipart     DEBUG    Calling on_header_field with data[34526:34545]
-2024-12-03 15:30:39 python_multipart.multipart     DEBUG    Calling on_header_value with data[34547:34576]
-2024-12-03 15:30:39 python_multipart.multipart     DEBUG    Calling on_header_end with no data
-2024-12-03 15:30:39 python_multipart.multipart     DEBUG    Calling on_headers_finished with no data
-2024-12-03 15:30:39 python_multipart.multipart     DEBUG    Calling on_part_data with data[34580:34584]
-2024-12-03 15:30:39 python_multipart.multipart     DEBUG    Calling on_part_end with no data
-2024-12-03 15:30:39 python_multipart.multipart     DEBUG    Calling on_end with no data
-2024-12-03 15:30:39 main                           DEBUG    upload_file alert_eisgs00.log, multisting is True
-2024-12-03 15:30:39 utils.logparser                DEBUG    Обработка мультистрингового лога
-2024-12-03 15:30:39 utils.logparser                INFO     файл получен
-2024-12-03 15:30:39 utils.logparser                INFO     Размер файла 1607334
-2024-12-03 15:32:19 python_multipart.multipart     DEBUG    Calling on_part_begin with no data
-2024-12-03 15:32:19 python_multipart.multipart     DEBUG    Calling on_header_field with data[54:73]
-2024-12-03 15:32:19 python_multipart.multipart     DEBUG    Calling on_header_value with data[75:127]
-2024-12-03 15:32:19 python_multipart.multipart     DEBUG    Calling on_header_end with no data
-2024-12-03 15:32:19 python_multipart.multipart     DEBUG    Calling on_header_field with data[129:141]
-2024-12-03 15:32:19 python_multipart.multipart     DEBUG    Calling on_header_value with data[143:153]
-2024-12-03 15:32:19 python_multipart.multipart     DEBUG    Calling on_header_end with no data
-2024-12-03 15:32:19 python_multipart.multipart     DEBUG    Calling on_headers_finished with no data
-2024-12-03 15:32:19 python_multipart.multipart     DEBUG    Calling on_part_data with data[0:262144]
-2024-12-03 15:32:19 python_multipart.multipart     DEBUG    Calling on_part_data with data[0:262144]
-2024-12-03 15:32:19 python_multipart.multipart     DEBUG    Calling on_part_data with data[0:262144]
-2024-12-03 15:32:19 python_multipart.multipart     DEBUG    Calling on_part_data with data[0:262144]
-2024-12-03 15:32:19 python_multipart.multipart     DEBUG    Calling on_part_data with data[0:262144]
-2024-12-03 15:32:19 python_multipart.multipart     DEBUG    Calling on_part_data with data[0:262144]
-2024-12-03 15:32:19 python_multipart.multipart     DEBUG    Calling on_part_data with data[0:34470]
-2024-12-03 15:32:19 python_multipart.multipart     DEBUG    Calling on_part_end with no data
-2024-12-03 15:32:19 python_multipart.multipart     DEBUG    Calling on_part_begin with no data
-2024-12-03 15:32:19 python_multipart.multipart     DEBUG    Calling on_header_field with data[34526:34545]
-2024-12-03 15:32:19 python_multipart.multipart     DEBUG    Calling on_header_value with data[34547:34576]
-2024-12-03 15:32:19 python_multipart.multipart     DEBUG    Calling on_header_end with no data
-2024-12-03 15:32:19 python_multipart.multipart     DEBUG    Calling on_headers_finished with no data
-2024-12-03 15:32:19 python_multipart.multipart     DEBUG    Calling on_part_data with data[34580:34584]
-2024-12-03 15:32:19 python_multipart.multipart     DEBUG    Calling on_part_end with no data
-2024-12-03 15:32:19 python_multipart.multipart     DEBUG    Calling on_end with no data
-2024-12-03 15:32:19 main                           DEBUG    upload_file alert_eisgs00.log, multisting is True
-2024-12-03 15:32:19 utils.logparser                DEBUG    Обработка мультистрингового лога
-2024-12-03 15:32:19 utils.logparser                INFO     файл получен
-2024-12-03 15:32:19 utils.logparser                INFO     Размер файла 1607334
+2024-12-04 16:23:47 python_multipart.multipart     DEBUG    Calling on_part_begin with no data
+2024-12-04 16:23:47 python_multipart.multipart     DEBUG    Calling on_header_field with data[54:73]
+2024-12-04 16:23:47 python_multipart.multipart     DEBUG    Calling on_header_value with data[75:128]
+2024-12-04 16:23:47 python_multipart.multipart     DEBUG    Calling on_header_end with no data
+2024-12-04 16:23:47 python_multipart.multipart     DEBUG    Calling on_header_field with data[130:142]
+2024-12-04 16:23:47 python_multipart.multipart     DEBUG    Calling on_header_value with data[144:154]
+2024-12-04 16:23:47 python_multipart.multipart     DEBUG    Calling on_header_end with no data
+2024-12-04 16:23:47 python_multipart.multipart     DEBUG    Calling on_headers_finished with no data
+2024-12-04 16:23:47 python_multipart.multipart     DEBUG    Calling on_part_data with data[158:131230]
+2024-12-04 16:23:47 python_multipart.multipart     DEBUG    Calling on_part_data with data[0:262144]
+2024-12-04 16:23:47 python_multipart.multipart     DEBUG    Calling on_part_data with data[0:262144]
+2024-12-04 16:23:47 python_multipart.multipart     DEBUG    Calling on_part_data with data[0:10877]
+2024-12-04 16:23:47 python_multipart.multipart     DEBUG    Calling on_part_end with no data
+2024-12-04 16:23:47 python_multipart.multipart     DEBUG    Calling on_part_begin with no data
+2024-12-04 16:23:47 python_multipart.multipart     DEBUG    Calling on_header_field with data[10933:10952]
+2024-12-04 16:23:47 python_multipart.multipart     DEBUG    Calling on_header_value with data[10954:10983]
+2024-12-04 16:23:47 python_multipart.multipart     DEBUG    Calling on_header_end with no data
+2024-12-04 16:23:47 python_multipart.multipart     DEBUG    Calling on_headers_finished with no data
+2024-12-04 16:23:47 python_multipart.multipart     DEBUG    Calling on_part_data with data[10987:10991]
+2024-12-04 16:23:47 python_multipart.multipart     DEBUG    Calling on_part_end with no data
+2024-12-04 16:23:47 python_multipart.multipart     DEBUG    Calling on_end with no data
+2024-12-04 16:23:47 main                           DEBUG    upload_file alert_eisgs001.log, multisting is True
+2024-12-04 16:23:47 utils.logparser                DEBUG    Обработка мультистрингового лога
+2024-12-04 16:23:47 utils.logparser                INFO     файл получен
+2024-12-04 16:23:47 utils.logparser                INFO     Размер файла 666237
+2024-12-04 16:23:47 utils.logparser                INFO     error string is opidrv aborting process J001 ospid (52832) as a result of ORA-1013
+2024-12-04 16:23:47 utils.logparser                INFO     error string is 2024-09-02T16:33:44.907251+03:00 Errors in file /u01/app/odaorabase/oracle/diag/rdbms/eisgs00/eisgs001/trace/eisgs001_j001_52832.trc: ORA-01013: user requested cancel of current operation
+2024-12-04 16:23:47 utils.logparser                INFO     error string is opidrv aborting process J001 ospid (15038) as a result of ORA-1013
+2024-12-04 16:23:47 utils.logparser                INFO     error string is 2024-09-02T16:58:20.443021+03:00 Errors in file /u01/app/odaorabase/oracle/diag/rdbms/eisgs00/eisgs001/trace/eisgs001_j001_15038.trc: ORA-01013: user requested cancel of current operation
+2024-12-04 16:23:48 utils.logparser                INFO     error string is   Owner = Process: J00A (orapid = 326, ospid = 49226)   Result = ORA-0
+2024-12-04 16:23:48 utils.logparser                INFO     error string is 2024-09-02T18:13:00.381239+03:00 opidrv aborting process J000 ospid (49216) as a result of ORA-1013
+2024-12-04 16:23:48 utils.logparser                INFO     error string is 2024-09-02T18:13:00.381646+03:00 Errors in file /u01/app/odaorabase/oracle/diag/rdbms/eisgs00/eisgs001/trace/eisgs001_j000_49216.trc: ORA-01013: user requested cancel of current operation
+2024-12-04 16:23:48 utils.logparser                INFO     error string is opidrv aborting process J004 ospid (27974) as a result of ORA-1013
+2024-12-04 16:23:48 utils.logparser                INFO     error string is 2024-09-02T18:14:32.629505+03:00 Errors in file /u01/app/odaorabase/oracle/diag/rdbms/eisgs00/eisgs001/trace/eisgs001_j004_27974.trc: ORA-01013: пользователем запрошена отмена текущей операции
+2024-12-04 16:23:48 utils.logparser                INFO     error string is opidrv aborting process J005 ospid (28246) as a result of ORA-1013
+2024-12-04 16:23:48 utils.logparser                INFO     error string is 2024-09-02T18:14:34.517604+03:00 Errors in file /u01/app/odaorabase/oracle/diag/rdbms/eisgs00/eisgs001/trace/eisgs001_j005_28246.trc: ORA-01013: пользователем запрошена отмена текущей операции
+2024-12-04 16:23:48 utils.logparser                INFO     error string is opidrv aborting process J006 ospid (28278) as a result of ORA-1013
+2024-12-04 16:23:48 utils.logparser                INFO     error string is 2024-09-02T18:14:36.605035+03:00 Errors in file /u01/app/odaorabase/oracle/diag/rdbms/eisgs00/eisgs001/trace/eisgs001_j006_28278.trc: ORA-01013: пользователем запрошена отмена текущей операции
+2024-12-04 16:23:48 utils.logparser                INFO     error string is opidrv aborting process J003 ospid (27963) as a result of ORA-1013
+2024-12-04 16:23:48 utils.logparser                INFO     error string is 2024-09-02T18:14:44.698180+03:00 Errors in file /u01/app/odaorabase/oracle/diag/rdbms/eisgs00/eisgs001/trace/eisgs001_j003_27963.trc: ORA-01013: пользователем запрошена отмена текущей операции
+2024-12-04 16:23:48 utils.logparser                INFO     error string is opidrv aborting process J007 ospid (28291) as a result of ORA-1013
+2024-12-04 16:23:48 utils.logparser                INFO     error string is 2024-09-02T18:14:48.858407+03:00 Errors in file /u01/app/odaorabase/oracle/diag/rdbms/eisgs00/eisgs001/trace/eisgs001_j007_28291.trc: ORA-01013: пользователем запрошена отмена текущей операции
+2024-12-04 16:23:48 utils.logparser                INFO     error string is opidrv aborting process J009 ospid (28417) as a result of ORA-1013
+2024-12-04 16:23:48 utils.logparser                INFO     error string is 2024-09-02T18:14:53.018276+03:00 Errors in file /u01/app/odaorabase/oracle/diag/rdbms/eisgs00/eisgs001/trace/eisgs001_j009_28417.trc: ORA-01013: user requested cancel of current operation
+2024-12-04 16:23:48 utils.logparser                INFO     error string is opiodr aborting process unknown ospid (60941) as a result of ORA-609 TNS-12537: TNS:connection closed     ns secondary err code: 12560   Version 19.15.0.0.0
+2024-12-04 16:23:48 utils.logparser                INFO     error string is 2024-09-04T16:35:04.694710+03:00 Errors in file /u01/app/odaorabase/oracle/diag/rdbms/eisgs00/eisgs001/trace/eisgs001_ora_60941.trc: ORA-00609: could not attach to incoming connection ORA-12537: TNS:connection closed     nt secondary err code: 0     ns main err code: 12537     nt OS err code: 0     
+2024-12-04 16:23:48 utils.logparser                INFO     error string is opiodr aborting process unknown ospid (61223) as a result of ORA-609 TNS-12537: TNS:connection closed     ns secondary err code: 12560
+2024-12-04 16:23:48 utils.logparser                INFO     error string is 2024-09-04T16:35:04.696829+03:00 Errors in file /u01/app/odaorabase/oracle/diag/rdbms/eisgs00/eisgs001/trace/eisgs001_ora_61223.trc: ORA-00609: could not attach to incoming connection ORA-12537: TNS:connection closed     nt OS err code: 0
+2024-12-04 16:23:48 utils.logparser                INFO     error string is opiodr aborting process unknown ospid (60888) as a result of ORA-609
+2024-12-04 16:23:48 utils.logparser                INFO     error string is 2024-09-04T16:35:04.698755+03:00 Errors in file /u01/app/odaorabase/oracle/diag/rdbms/eisgs00/eisgs001/trace/eisgs001_ora_60888.trc: ORA-00609: could not attach to incoming connection ORA-12537: TNS:connection closed
+2024-12-04 16:23:48 utils.logparser                INFO     error string is opiodr aborting process unknown ospid (47154) as a result of ORA-609     nt secondary err code: 0 TNS-00507: Connection closed     nt OS err code: 0     nt secondary err code: 0
+2024-12-04 16:23:48 utils.logparser                INFO     error string is opiodr aborting process unknown ospid (47127) as a result of ORA-609     nt OS err code: 0
+2024-12-04 16:23:48 utils.logparser                INFO     error string is opiodr aborting process unknown ospid (47089) as a result of ORA-609
+2024-12-04 16:23:48 utils.logparser                INFO     error string is 2024-09-05T08:40:09.983244+03:00 Errors in file /u01/app/odaorabase/oracle/diag/rdbms/eisgs00/eisgs001/trace/eisgs001_ora_47154.trc: ORA-00609: could not attach to incoming connection ORA-12537: TNS:connection closed  Fatal NI connect error 12537, connecting to:  (ADDRESS=(PROTOCOL=tcp)(HOST=172.16.224.3)(PORT=64459))
+2024-12-04 16:23:48 utils.logparser                INFO     error string is 2024-09-05T08:40:09.984032+03:00 Errors in file /u01/app/odaorabase/oracle/diag/rdbms/eisgs00/eisgs001/trace/eisgs001_ora_47127.trc: ORA-00609: could not attach to incoming connection ORA-12537: TNS:connection closed    VERSION INFORMATION: 	TNS for Linux: Version 19.0.0.0.0 - Production 	Oracle Bequeath NT Protocol Adapter for Linux: Version 19.0.0.0.0 - Production 	TCP/IP NT Protocol Adapter for Linux: Version 19.0.0.0.0 - Production   Version 19.15.0.0.0
+2024-12-04 16:23:48 utils.logparser                INFO     error string is 2024-09-05T08:40:09.985080+03:00 Errors in file /u01/app/odaorabase/oracle/diag/rdbms/eisgs00/eisgs001/trace/eisgs001_ora_47089.trc: ORA-00609: could not attach to incoming connection ORA-12537: TNS:connection closed
+2024-12-04 16:23:48 utils.logparser                INFO     error string is opiodr aborting process unknown ospid (47070) as a result of ORA-609
+2024-12-04 16:23:48 utils.logparser                INFO     error string is 2024-09-05T08:40:09.991744+03:00 Errors in file /u01/app/odaorabase/oracle/diag/rdbms/eisgs00/eisgs001/trace/eisgs001_ora_47070.trc: ORA-00609: could not attach to incoming connection ORA-12537: TNS:connection closed     
+2024-12-04 16:23:48 utils.logparser                INFO     error string is opiodr aborting process unknown ospid (46997) as a result of ORA-609      TNS-00507: Connection closed     nt secondary err code: 0     nt OS err code: 0
+2024-12-04 16:23:48 utils.logparser                INFO     error string is opiodr aborting process unknown ospid (47108) as a result of ORA-609
+2024-12-04 16:23:48 utils.logparser                INFO     error string is 2024-09-05T08:40:09.995925+03:00 Errors in file /u01/app/odaorabase/oracle/diag/rdbms/eisgs00/eisgs001/trace/eisgs001_ora_46997.trc: ORA-00609: could not attach to incoming connection ORA-12537: TNS:connection closed
+2024-12-04 16:23:48 utils.logparser                INFO     error string is 2024-09-05T08:40:09.997271+03:00 Errors in file /u01/app/odaorabase/oracle/diag/rdbms/eisgs00/eisgs001/trace/eisgs001_ora_47108.trc: ORA-00609: could not attach to incoming connection ORA-12537: TNS:connection closed
+2024-12-04 16:23:49 utils.logparser                INFO     error string is opidrv aborting process J001 ospid (83541) as a result of ORA-1013
+2024-12-04 16:23:49 utils.logparser                INFO     error string is 2024-09-06T17:25:11.736659+03:00 Errors in file /u01/app/odaorabase/oracle/diag/rdbms/eisgs00/eisgs001/trace/eisgs001_j001_83541.trc: ORA-01013: пользователем запрошена отмена текущей операции
+2024-12-04 16:23:49 utils.logparser                INFO     error string is opidrv aborting process J003 ospid (83585) as a result of ORA-1013
+2024-12-04 16:23:49 utils.logparser                INFO     error string is 2024-09-06T17:25:13.851824+03:00 Errors in file /u01/app/odaorabase/oracle/diag/rdbms/eisgs00/eisgs001/trace/eisgs001_j003_83585.trc: ORA-01013: пользователем запрошена отмена текущей операции
+2024-12-04 16:23:49 utils.logparser                INFO     error string is opidrv aborting process J004 ospid (83598) as a result of ORA-1013
+2024-12-04 16:23:49 utils.logparser                INFO     error string is 2024-09-06T17:25:15.908827+03:00 Errors in file /u01/app/odaorabase/oracle/diag/rdbms/eisgs00/eisgs001/trace/eisgs001_j004_83598.trc: ORA-01013: пользователем запрошена отмена текущей операции
+2024-12-04 16:23:49 utils.logparser                INFO     error string is 2024-09-06T17:25:24.121940+03:00 opidrv aborting process J000 ospid (83531) as a result of ORA-1013
+2024-12-04 16:23:49 utils.logparser                INFO     error string is 2024-09-06T17:25:24.122331+03:00 Errors in file /u01/app/odaorabase/oracle/diag/rdbms/eisgs00/eisgs001/trace/eisgs001_j000_83531.trc: ORA-01013: пользователем запрошена отмена текущей операции
+2024-12-04 16:23:49 utils.logparser                INFO     error string is opidrv aborting process J005 ospid (83611) as a result of ORA-1013
+2024-12-04 16:23:49 utils.logparser                INFO     error string is 2024-09-06T17:25:28.282493+03:00 Errors in file /u01/app/odaorabase/oracle/diag/rdbms/eisgs00/eisgs001/trace/eisgs001_j005_83611.trc: ORA-01013: пользователем запрошена отмена текущей операции
+2024-12-04 16:23:49 utils.logparser                INFO     error string is opidrv aborting process J006 ospid (83837) as a result of ORA-1013
+2024-12-04 16:23:49 utils.logparser                INFO     error string is 2024-09-06T17:25:32.442342+03:00 Errors in file /u01/app/odaorabase/oracle/diag/rdbms/eisgs00/eisgs001/trace/eisgs001_j006_83837.trc: ORA-01013: user requested cancel of current operation
+2024-12-04 16:23:49 utils.logparser                INFO     error string is opidrv aborting process J009 ospid (83865) as a result of ORA-1013
+2024-12-04 16:23:49 utils.logparser                INFO     error string is 2024-09-06T17:25:36.602039+03:00 Errors in file /u01/app/odaorabase/oracle/diag/rdbms/eisgs00/eisgs001/trace/eisgs001_j009_83865.trc: ORA-01013: user requested cancel of current operation
+2024-12-04 16:23:49 utils.logparser                INFO     error string is opidrv aborting process J007 ospid (83851) as a result of ORA-1013
+2024-12-04 16:23:49 utils.logparser                INFO     error string is 2024-09-06T17:25:40.442593+03:00 Errors in file /u01/app/odaorabase/oracle/diag/rdbms/eisgs00/eisgs001/trace/eisgs001_j007_83851.trc: ORA-01013: user requested cancel of current operation
+2024-12-04 16:23:51 utils.logparser                INFO     error string is opidrv aborting process J004 ospid (49543) as a result of ORA-1013
+2024-12-04 16:23:51 utils.logparser                INFO     error string is 2024-09-09T09:33:30.607787+03:00 Errors in file /u01/app/odaorabase/oracle/diag/rdbms/eisgs00/eisgs001/trace/eisgs001_j004_49543.trc: ORA-01013: пользователем запрошена отмена текущей операции
+2024-12-04 16:23:51 utils.logparser                INFO     error string is opidrv aborting process J003 ospid (49522) as a result of ORA-1013
+2024-12-04 16:23:51 utils.logparser                INFO     error string is 2024-09-09T09:33:32.633620+03:00 Errors in file /u01/app/odaorabase/oracle/diag/rdbms/eisgs00/eisgs001/trace/eisgs001_j003_49522.trc: ORA-01013: пользователем запрошена отмена текущей операции
+2024-12-04 16:23:51 utils.logparser                INFO     error string is opidrv aborting process J001 ospid (49508) as a result of ORA-1013
+2024-12-04 16:23:51 utils.logparser                INFO     error string is 2024-09-09T09:33:34.698786+03:00 Errors in file /u01/app/odaorabase/oracle/diag/rdbms/eisgs00/eisgs001/trace/eisgs001_j001_49508.trc: ORA-01013: пользователем запрошена отмена текущей операции
+2024-12-04 16:23:51 utils.logparser                INFO     error string is 2024-09-09T09:33:44.025292+03:00 opidrv aborting process J000 ospid (38835) as a result of ORA-1013
+2024-12-04 16:23:51 utils.logparser                INFO     error string is 2024-09-09T09:33:44.025665+03:00 Errors in file /u01/app/odaorabase/oracle/diag/rdbms/eisgs00/eisgs001/trace/eisgs001_j000_38835.trc: ORA-01013: пользователем запрошена отмена текущей операции
+2024-12-04 16:23:51 utils.logparser                INFO     error string is opidrv aborting process J005 ospid (49569) as a result of ORA-1013
+2024-12-04 16:23:51 utils.logparser                INFO     error string is 2024-09-09T09:33:48.058129+03:00 Errors in file /u01/app/odaorabase/oracle/diag/rdbms/eisgs00/eisgs001/trace/eisgs001_j005_49569.trc: ORA-01013: пользователем запрошена отмена текущей операции
+2024-12-04 16:23:51 utils.logparser                INFO     error string is opidrv aborting process J006 ospid (49584) as a result of ORA-1013
+2024-12-04 16:23:51 utils.logparser                INFO     error string is 2024-09-09T09:33:52.281987+03:00 Errors in file /u01/app/odaorabase/oracle/diag/rdbms/eisgs00/eisgs001/trace/eisgs001_j006_49584.trc: ORA-01013: user requested cancel of current operation
+2024-12-04 16:23:51 utils.logparser                INFO     error string is opidrv aborting process J009 ospid (49993) as a result of ORA-1013
+2024-12-04 16:23:51 utils.logparser                INFO     error string is 2024-09-09T09:33:56.441908+03:00 Errors in file /u01/app/odaorabase/oracle/diag/rdbms/eisgs00/eisgs001/trace/eisgs001_j009_49993.trc: ORA-01013: user requested cancel of current operation
+2024-12-04 16:23:51 utils.logparser                INFO     error string is opidrv aborting process J007 ospid (49980) as a result of ORA-1013
+2024-12-04 16:23:51 utils.logparser                INFO     error string is 2024-09-09T09:34:00.601625+03:00 Errors in file /u01/app/odaorabase/oracle/diag/rdbms/eisgs00/eisgs001/trace/eisgs001_j007_49980.trc: ORA-01013: user requested cancel of current operation
+2024-12-04 16:23:51 utils.logparser                INFO     error string is 2024-09-09T09:34:00.601625+03:00 Errors in file /u01/app/odaorabase/oracle/diag/rdbms/eisgs00/eisgs001/trace/eisgs001_j007_49980.trc: ORA-01013: user requested cancel of current operation
+2024-12-04 16:29:10 python_multipart.multipart     DEBUG    Calling on_part_begin with no data
+2024-12-04 16:29:10 python_multipart.multipart     DEBUG    Calling on_header_field with data[54:73]
+2024-12-04 16:29:10 python_multipart.multipart     DEBUG    Calling on_header_value with data[75:128]
+2024-12-04 16:29:10 python_multipart.multipart     DEBUG    Calling on_header_end with no data
+2024-12-04 16:29:10 python_multipart.multipart     DEBUG    Calling on_header_field with data[130:142]
+2024-12-04 16:29:10 python_multipart.multipart     DEBUG    Calling on_header_value with data[144:154]
+2024-12-04 16:29:10 python_multipart.multipart     DEBUG    Calling on_header_end with no data
+2024-12-04 16:29:10 python_multipart.multipart     DEBUG    Calling on_headers_finished with no data
+2024-12-04 16:29:10 python_multipart.multipart     DEBUG    Calling on_part_data with data[158:131230]
+2024-12-04 16:29:10 python_multipart.multipart     DEBUG    Calling on_part_data with data[0:262144]
+2024-12-04 16:29:10 python_multipart.multipart     DEBUG    Calling on_part_data with data[0:262144]
+2024-12-04 16:29:10 python_multipart.multipart     DEBUG    Calling on_part_data with data[0:10877]
+2024-12-04 16:29:10 python_multipart.multipart     DEBUG    Calling on_part_end with no data
+2024-12-04 16:29:10 python_multipart.multipart     DEBUG    Calling on_part_begin with no data
+2024-12-04 16:29:10 python_multipart.multipart     DEBUG    Calling on_header_field with data[10933:10952]
+2024-12-04 16:29:10 python_multipart.multipart     DEBUG    Calling on_header_value with data[10954:10983]
+2024-12-04 16:29:10 python_multipart.multipart     DEBUG    Calling on_header_end with no data
+2024-12-04 16:29:10 python_multipart.multipart     DEBUG    Calling on_headers_finished with no data
+2024-12-04 16:29:10 python_multipart.multipart     DEBUG    Calling on_part_data with data[10987:10991]
+2024-12-04 16:29:10 python_multipart.multipart     DEBUG    Calling on_part_end with no data
+2024-12-04 16:29:10 python_multipart.multipart     DEBUG    Calling on_end with no data
+2024-12-04 16:29:10 main                           DEBUG    upload_file alert_eisgs001.log, multisting is True
+2024-12-04 16:29:10 utils.logparser                DEBUG    Обработка мультистрингового лога
+2024-12-04 16:29:10 utils.logparser                INFO     файл получен
+2024-12-04 16:29:10 utils.logparser                INFO     Размер файла 666237
+2024-12-04 16:29:11 utils.logparser                INFO     error string is opidrv aborting process J001 ospid (52832) as a result of ORA-1013
+2024-12-04 16:29:11 utils.logparser                INFO     error string is 2024-09-02T16:33:44.907251+03:00 Errors in file /u01/app/odaorabase/oracle/diag/rdbms/eisgs00/eisgs001/trace/eisgs001_j001_52832.trc: ORA-01013: user requested cancel of current operation
+2024-12-04 16:29:11 utils.logparser                INFO     error string is opidrv aborting process J001 ospid (15038) as a result of ORA-1013
+2024-12-04 16:29:11 utils.logparser                INFO     error string is 2024-09-02T16:58:20.443021+03:00 Errors in file /u01/app/odaorabase/oracle/diag/rdbms/eisgs00/eisgs001/trace/eisgs001_j001_15038.trc: ORA-01013: user requested cancel of current operation
+2024-12-04 16:29:11 utils.logparser                INFO     error string is   Owner = Process: J00A (orapid = 326, ospid = 49226)   Result = ORA-0
+2024-12-04 16:29:11 utils.logparser                INFO     error string is 2024-09-02T18:13:00.381239+03:00 opidrv aborting process J000 ospid (49216) as a result of ORA-1013
+2024-12-04 16:29:11 utils.logparser                INFO     error string is 2024-09-02T18:13:00.381646+03:00 Errors in file /u01/app/odaorabase/oracle/diag/rdbms/eisgs00/eisgs001/trace/eisgs001_j000_49216.trc: ORA-01013: user requested cancel of current operation
+2024-12-04 16:29:11 utils.logparser                INFO     error string is opidrv aborting process J004 ospid (27974) as a result of ORA-1013
+2024-12-04 16:29:11 utils.logparser                INFO     error string is 2024-09-02T18:14:32.629505+03:00 Errors in file /u01/app/odaorabase/oracle/diag/rdbms/eisgs00/eisgs001/trace/eisgs001_j004_27974.trc: ORA-01013: пользователем запрошена отмена текущей операции
+2024-12-04 16:29:11 utils.logparser                INFO     error string is opidrv aborting process J005 ospid (28246) as a result of ORA-1013
+2024-12-04 16:29:11 utils.logparser                INFO     error string is 2024-09-02T18:14:34.517604+03:00 Errors in file /u01/app/odaorabase/oracle/diag/rdbms/eisgs00/eisgs001/trace/eisgs001_j005_28246.trc: ORA-01013: пользователем запрошена отмена текущей операции
+2024-12-04 16:29:11 utils.logparser                INFO     error string is opidrv aborting process J006 ospid (28278) as a result of ORA-1013
+2024-12-04 16:29:11 utils.logparser                INFO     error string is 2024-09-02T18:14:36.605035+03:00 Errors in file /u01/app/odaorabase/oracle/diag/rdbms/eisgs00/eisgs001/trace/eisgs001_j006_28278.trc: ORA-01013: пользователем запрошена отмена текущей операции
+2024-12-04 16:29:11 utils.logparser                INFO     error string is opidrv aborting process J003 ospid (27963) as a result of ORA-1013
+2024-12-04 16:29:11 utils.logparser                INFO     error string is 2024-09-02T18:14:44.698180+03:00 Errors in file /u01/app/odaorabase/oracle/diag/rdbms/eisgs00/eisgs001/trace/eisgs001_j003_27963.trc: ORA-01013: пользователем запрошена отмена текущей операции
+2024-12-04 16:29:11 utils.logparser                INFO     error string is opidrv aborting process J007 ospid (28291) as a result of ORA-1013
+2024-12-04 16:29:11 utils.logparser                INFO     error string is 2024-09-02T18:14:48.858407+03:00 Errors in file /u01/app/odaorabase/oracle/diag/rdbms/eisgs00/eisgs001/trace/eisgs001_j007_28291.trc: ORA-01013: пользователем запрошена отмена текущей операции
+2024-12-04 16:29:11 utils.logparser                INFO     error string is opidrv aborting process J009 ospid (28417) as a result of ORA-1013
+2024-12-04 16:29:11 utils.logparser                INFO     error string is 2024-09-02T18:14:53.018276+03:00 Errors in file /u01/app/odaorabase/oracle/diag/rdbms/eisgs00/eisgs001/trace/eisgs001_j009_28417.trc: ORA-01013: user requested cancel of current operation
+2024-12-04 16:29:11 utils.logparser                INFO     error string is opiodr aborting process unknown ospid (60941) as a result of ORA-609 TNS-12537: TNS:connection closed     ns secondary err code: 12560   Version 19.15.0.0.0
+2024-12-04 16:29:11 utils.logparser                INFO     error string is 2024-09-04T16:35:04.694710+03:00 Errors in file /u01/app/odaorabase/oracle/diag/rdbms/eisgs00/eisgs001/trace/eisgs001_ora_60941.trc: ORA-00609: could not attach to incoming connection ORA-12537: TNS:connection closed     nt secondary err code: 0     ns main err code: 12537     nt OS err code: 0     
+2024-12-04 16:29:11 utils.logparser                INFO     error string is opiodr aborting process unknown ospid (61223) as a result of ORA-609 TNS-12537: TNS:connection closed     ns secondary err code: 12560
+2024-12-04 16:29:11 utils.logparser                INFO     error string is 2024-09-04T16:35:04.696829+03:00 Errors in file /u01/app/odaorabase/oracle/diag/rdbms/eisgs00/eisgs001/trace/eisgs001_ora_61223.trc: ORA-00609: could not attach to incoming connection ORA-12537: TNS:connection closed     nt OS err code: 0
+2024-12-04 16:29:11 utils.logparser                INFO     error string is opiodr aborting process unknown ospid (60888) as a result of ORA-609
+2024-12-04 16:29:11 utils.logparser                INFO     error string is 2024-09-04T16:35:04.698755+03:00 Errors in file /u01/app/odaorabase/oracle/diag/rdbms/eisgs00/eisgs001/trace/eisgs001_ora_60888.trc: ORA-00609: could not attach to incoming connection ORA-12537: TNS:connection closed
+2024-12-04 16:29:12 utils.logparser                INFO     error string is opiodr aborting process unknown ospid (47154) as a result of ORA-609     nt secondary err code: 0 TNS-00507: Connection closed     nt OS err code: 0     nt secondary err code: 0
+2024-12-04 16:29:12 utils.logparser                INFO     error string is opiodr aborting process unknown ospid (47127) as a result of ORA-609     nt OS err code: 0
+2024-12-04 16:29:12 utils.logparser                INFO     error string is opiodr aborting process unknown ospid (47089) as a result of ORA-609
+2024-12-04 16:29:12 utils.logparser                INFO     error string is 2024-09-05T08:40:09.983244+03:00 Errors in file /u01/app/odaorabase/oracle/diag/rdbms/eisgs00/eisgs001/trace/eisgs001_ora_47154.trc: ORA-00609: could not attach to incoming connection ORA-12537: TNS:connection closed  Fatal NI connect error 12537, connecting to:  (ADDRESS=(PROTOCOL=tcp)(HOST=172.16.224.3)(PORT=64459))
+2024-12-04 16:29:12 utils.logparser                INFO     error string is 2024-09-05T08:40:09.984032+03:00 Errors in file /u01/app/odaorabase/oracle/diag/rdbms/eisgs00/eisgs001/trace/eisgs001_ora_47127.trc: ORA-00609: could not attach to incoming connection ORA-12537: TNS:connection closed    VERSION INFORMATION: 	TNS for Linux: Version 19.0.0.0.0 - Production 	Oracle Bequeath NT Protocol Adapter for Linux: Version 19.0.0.0.0 - Production 	TCP/IP NT Protocol Adapter for Linux: Version 19.0.0.0.0 - Production   Version 19.15.0.0.0
+2024-12-04 16:29:12 utils.logparser                INFO     error string is 2024-09-05T08:40:09.985080+03:00 Errors in file /u01/app/odaorabase/oracle/diag/rdbms/eisgs00/eisgs001/trace/eisgs001_ora_47089.trc: ORA-00609: could not attach to incoming connection ORA-12537: TNS:connection closed
+2024-12-04 16:29:12 utils.logparser                INFO     error string is opiodr aborting process unknown ospid (47070) as a result of ORA-609
+2024-12-04 16:29:12 utils.logparser                INFO     error string is 2024-09-05T08:40:09.991744+03:00 Errors in file /u01/app/odaorabase/oracle/diag/rdbms/eisgs00/eisgs001/trace/eisgs001_ora_47070.trc: ORA-00609: could not attach to incoming connection ORA-12537: TNS:connection closed     
+2024-12-04 16:29:12 utils.logparser                INFO     error string is opiodr aborting process unknown ospid (46997) as a result of ORA-609      TNS-00507: Connection closed     nt secondary err code: 0     nt OS err code: 0
+2024-12-04 16:29:12 utils.logparser                INFO     error string is opiodr aborting process unknown ospid (47108) as a result of ORA-609
+2024-12-04 16:29:12 utils.logparser                INFO     error string is 2024-09-05T08:40:09.995925+03:00 Errors in file /u01/app/odaorabase/oracle/diag/rdbms/eisgs00/eisgs001/trace/eisgs001_ora_46997.trc: ORA-00609: could not attach to incoming connection ORA-12537: TNS:connection closed
+2024-12-04 16:29:12 utils.logparser                INFO     error string is 2024-09-05T08:40:09.997271+03:00 Errors in file /u01/app/odaorabase/oracle/diag/rdbms/eisgs00/eisgs001/trace/eisgs001_ora_47108.trc: ORA-00609: could not attach to incoming connection ORA-12537: TNS:connection closed
+2024-12-04 16:29:12 utils.logparser                INFO     error string is opidrv aborting process J001 ospid (83541) as a result of ORA-1013
+2024-12-04 16:29:12 utils.logparser                INFO     error string is 2024-09-06T17:25:11.736659+03:00 Errors in file /u01/app/odaorabase/oracle/diag/rdbms/eisgs00/eisgs001/trace/eisgs001_j001_83541.trc: ORA-01013: пользователем запрошена отмена текущей операции
+2024-12-04 16:29:12 utils.logparser                INFO     error string is opidrv aborting process J003 ospid (83585) as a result of ORA-1013
+2024-12-04 16:29:12 utils.logparser                INFO     error string is 2024-09-06T17:25:13.851824+03:00 Errors in file /u01/app/odaorabase/oracle/diag/rdbms/eisgs00/eisgs001/trace/eisgs001_j003_83585.trc: ORA-01013: пользователем запрошена отмена текущей операции
+2024-12-04 16:29:12 utils.logparser                INFO     error string is opidrv aborting process J004 ospid (83598) as a result of ORA-1013
+2024-12-04 16:29:12 utils.logparser                INFO     error string is 2024-09-06T17:25:15.908827+03:00 Errors in file /u01/app/odaorabase/oracle/diag/rdbms/eisgs00/eisgs001/trace/eisgs001_j004_83598.trc: ORA-01013: пользователем запрошена отмена текущей операции
+2024-12-04 16:29:12 utils.logparser                INFO     error string is 2024-09-06T17:25:24.121940+03:00 opidrv aborting process J000 ospid (83531) as a result of ORA-1013
+2024-12-04 16:29:12 utils.logparser                INFO     error string is 2024-09-06T17:25:24.122331+03:00 Errors in file /u01/app/odaorabase/oracle/diag/rdbms/eisgs00/eisgs001/trace/eisgs001_j000_83531.trc: ORA-01013: пользователем запрошена отмена текущей операции
+2024-12-04 16:29:12 utils.logparser                INFO     error string is opidrv aborting process J005 ospid (83611) as a result of ORA-1013
+2024-12-04 16:29:12 utils.logparser                INFO     error string is 2024-09-06T17:25:28.282493+03:00 Errors in file /u01/app/odaorabase/oracle/diag/rdbms/eisgs00/eisgs001/trace/eisgs001_j005_83611.trc: ORA-01013: пользователем запрошена отмена текущей операции
+2024-12-04 16:29:12 utils.logparser                INFO     error string is opidrv aborting process J006 ospid (83837) as a result of ORA-1013
+2024-12-04 16:29:12 utils.logparser                INFO     error string is 2024-09-06T17:25:32.442342+03:00 Errors in file /u01/app/odaorabase/oracle/diag/rdbms/eisgs00/eisgs001/trace/eisgs001_j006_83837.trc: ORA-01013: user requested cancel of current operation
+2024-12-04 16:29:12 utils.logparser                INFO     error string is opidrv aborting process J009 ospid (83865) as a result of ORA-1013
+2024-12-04 16:29:12 utils.logparser                INFO     error string is 2024-09-06T17:25:36.602039+03:00 Errors in file /u01/app/odaorabase/oracle/diag/rdbms/eisgs00/eisgs001/trace/eisgs001_j009_83865.trc: ORA-01013: user requested cancel of current operation
+2024-12-04 16:29:12 utils.logparser                INFO     error string is opidrv aborting process J007 ospid (83851) as a result of ORA-1013
+2024-12-04 16:29:12 utils.logparser                INFO     error string is 2024-09-06T17:25:40.442593+03:00 Errors in file /u01/app/odaorabase/oracle/diag/rdbms/eisgs00/eisgs001/trace/eisgs001_j007_83851.trc: ORA-01013: user requested cancel of current operation
+2024-12-04 16:29:14 utils.logparser                INFO     error string is opidrv aborting process J004 ospid (49543) as a result of ORA-1013
+2024-12-04 16:29:14 utils.logparser                INFO     error string is 2024-09-09T09:33:30.607787+03:00 Errors in file /u01/app/odaorabase/oracle/diag/rdbms/eisgs00/eisgs001/trace/eisgs001_j004_49543.trc: ORA-01013: пользователем запрошена отмена текущей операции
+2024-12-04 16:29:14 utils.logparser                INFO     error string is opidrv aborting process J003 ospid (49522) as a result of ORA-1013
+2024-12-04 16:29:14 utils.logparser                INFO     error string is 2024-09-09T09:33:32.633620+03:00 Errors in file /u01/app/odaorabase/oracle/diag/rdbms/eisgs00/eisgs001/trace/eisgs001_j003_49522.trc: ORA-01013: пользователем запрошена отмена текущей операции
+2024-12-04 16:29:14 utils.logparser                INFO     error string is opidrv aborting process J001 ospid (49508) as a result of ORA-1013
+2024-12-04 16:29:14 utils.logparser                INFO     error string is 2024-09-09T09:33:34.698786+03:00 Errors in file /u01/app/odaorabase/oracle/diag/rdbms/eisgs00/eisgs001/trace/eisgs001_j001_49508.trc: ORA-01013: пользователем запрошена отмена текущей операции
+2024-12-04 16:29:14 utils.logparser                INFO     error string is 2024-09-09T09:33:44.025292+03:00 opidrv aborting process J000 ospid (38835) as a result of ORA-1013
+2024-12-04 16:29:14 utils.logparser                INFO     error string is 2024-09-09T09:33:44.025665+03:00 Errors in file /u01/app/odaorabase/oracle/diag/rdbms/eisgs00/eisgs001/trace/eisgs001_j000_38835.trc: ORA-01013: пользователем запрошена отмена текущей операции
+2024-12-04 16:29:14 utils.logparser                INFO     error string is opidrv aborting process J005 ospid (49569) as a result of ORA-1013
+2024-12-04 16:29:14 utils.logparser                INFO     error string is 2024-09-09T09:33:48.058129+03:00 Errors in file /u01/app/odaorabase/oracle/diag/rdbms/eisgs00/eisgs001/trace/eisgs001_j005_49569.trc: ORA-01013: пользователем запрошена отмена текущей операции
+2024-12-04 16:29:14 utils.logparser                INFO     error string is opidrv aborting process J006 ospid (49584) as a result of ORA-1013
+2024-12-04 16:29:14 utils.logparser                INFO     error string is 2024-09-09T09:33:52.281987+03:00 Errors in file /u01/app/odaorabase/oracle/diag/rdbms/eisgs00/eisgs001/trace/eisgs001_j006_49584.trc: ORA-01013: user requested cancel of current operation
+2024-12-04 16:29:14 utils.logparser                INFO     error string is opidrv aborting process J009 ospid (49993) as a result of ORA-1013
+2024-12-04 16:29:14 utils.logparser                INFO     error string is 2024-09-09T09:33:56.441908+03:00 Errors in file /u01/app/odaorabase/oracle/diag/rdbms/eisgs00/eisgs001/trace/eisgs001_j009_49993.trc: ORA-01013: user requested cancel of current operation
+2024-12-04 16:29:14 utils.logparser                INFO     error string is opidrv aborting process J007 ospid (49980) as a result of ORA-1013
+2024-12-04 16:29:14 utils.logparser                INFO     error string is 2024-09-09T09:34:00.601625+03:00 Errors in file /u01/app/odaorabase/oracle/diag/rdbms/eisgs00/eisgs001/trace/eisgs001_j007_49980.trc: ORA-01013: user requested cancel of current operation
+2024-12-04 16:29:14 utils.logparser                INFO     error string is 2024-09-09T09:34:00.601625+03:00 Errors in file /u01/app/odaorabase/oracle/diag/rdbms/eisgs00/eisgs001/trace/eisgs001_j007_49980.trc: ORA-01013: user requested cancel of current operation
+2024-12-04 16:29:15 utils.logparser                ERROR    findDateInRow Additional information: 4294967295
+2024-12-04 16:31:33 python_multipart.multipart     DEBUG    Calling on_part_begin with no data
+2024-12-04 16:31:33 python_multipart.multipart     DEBUG    Calling on_header_field with data[54:73]
+2024-12-04 16:31:33 python_multipart.multipart     DEBUG    Calling on_header_value with data[75:128]
+2024-12-04 16:31:33 python_multipart.multipart     DEBUG    Calling on_header_end with no data
+2024-12-04 16:31:33 python_multipart.multipart     DEBUG    Calling on_header_field with data[130:142]
+2024-12-04 16:31:33 python_multipart.multipart     DEBUG    Calling on_header_value with data[144:154]
+2024-12-04 16:31:33 python_multipart.multipart     DEBUG    Calling on_header_end with no data
+2024-12-04 16:31:33 python_multipart.multipart     DEBUG    Calling on_headers_finished with no data
+2024-12-04 16:31:33 python_multipart.multipart     DEBUG    Calling on_part_data with data[158:196766]
+2024-12-04 16:31:33 python_multipart.multipart     DEBUG    Calling on_part_data with data[0:262144]
+2024-12-04 16:31:33 python_multipart.multipart     DEBUG    Calling on_part_data with data[0:207485]
+2024-12-04 16:31:33 python_multipart.multipart     DEBUG    Calling on_part_end with no data
+2024-12-04 16:31:33 python_multipart.multipart     DEBUG    Calling on_part_begin with no data
+2024-12-04 16:31:33 python_multipart.multipart     DEBUG    Calling on_header_field with data[207541:207560]
+2024-12-04 16:31:33 python_multipart.multipart     DEBUG    Calling on_header_value with data[207562:207591]
+2024-12-04 16:31:33 python_multipart.multipart     DEBUG    Calling on_header_end with no data
+2024-12-04 16:31:33 python_multipart.multipart     DEBUG    Calling on_headers_finished with no data
+2024-12-04 16:31:33 python_multipart.multipart     DEBUG    Calling on_part_data with data[207595:207599]
+2024-12-04 16:31:33 python_multipart.multipart     DEBUG    Calling on_part_end with no data
+2024-12-04 16:31:33 python_multipart.multipart     DEBUG    Calling on_end with no data
+2024-12-04 16:31:33 main                           DEBUG    upload_file alert_eisgs001.log, multisting is True
+2024-12-04 16:31:33 utils.logparser                DEBUG    Обработка мультистрингового лога
+2024-12-04 16:31:33 utils.logparser                INFO     файл получен
+2024-12-04 16:31:33 utils.logparser                INFO     Размер файла 666237
+2024-12-04 16:31:33 utils.logparser                INFO     error string is opidrv aborting process J001 ospid (52832) as a result of ORA-1013
+2024-12-04 16:31:33 utils.logparser                INFO     error string is 2024-09-02T16:33:44.907251+03:00 Errors in file /u01/app/odaorabase/oracle/diag/rdbms/eisgs00/eisgs001/trace/eisgs001_j001_52832.trc: ORA-01013: user requested cancel of current operation
+2024-12-04 16:31:33 utils.logparser                INFO     error string is opidrv aborting process J001 ospid (15038) as a result of ORA-1013
+2024-12-04 16:31:33 utils.logparser                INFO     error string is 2024-09-02T16:58:20.443021+03:00 Errors in file /u01/app/odaorabase/oracle/diag/rdbms/eisgs00/eisgs001/trace/eisgs001_j001_15038.trc: ORA-01013: user requested cancel of current operation
+2024-12-04 16:31:33 utils.logparser                INFO     error string is   Owner = Process: J00A (orapid = 326, ospid = 49226)   Result = ORA-0
+2024-12-04 16:31:33 utils.logparser                INFO     error string is 2024-09-02T18:13:00.381239+03:00 opidrv aborting process J000 ospid (49216) as a result of ORA-1013
+2024-12-04 16:31:33 utils.logparser                INFO     error string is 2024-09-02T18:13:00.381646+03:00 Errors in file /u01/app/odaorabase/oracle/diag/rdbms/eisgs00/eisgs001/trace/eisgs001_j000_49216.trc: ORA-01013: user requested cancel of current operation
+2024-12-04 16:31:33 utils.logparser                INFO     error string is opidrv aborting process J004 ospid (27974) as a result of ORA-1013
+2024-12-04 16:31:33 utils.logparser                INFO     error string is 2024-09-02T18:14:32.629505+03:00 Errors in file /u01/app/odaorabase/oracle/diag/rdbms/eisgs00/eisgs001/trace/eisgs001_j004_27974.trc: ORA-01013: пользователем запрошена отмена текущей операции
+2024-12-04 16:31:33 utils.logparser                INFO     error string is opidrv aborting process J005 ospid (28246) as a result of ORA-1013
+2024-12-04 16:31:33 utils.logparser                INFO     error string is 2024-09-02T18:14:34.517604+03:00 Errors in file /u01/app/odaorabase/oracle/diag/rdbms/eisgs00/eisgs001/trace/eisgs001_j005_28246.trc: ORA-01013: пользователем запрошена отмена текущей операции
+2024-12-04 16:31:33 utils.logparser                INFO     error string is opidrv aborting process J006 ospid (28278) as a result of ORA-1013
+2024-12-04 16:31:33 utils.logparser                INFO     error string is 2024-09-02T18:14:36.605035+03:00 Errors in file /u01/app/odaorabase/oracle/diag/rdbms/eisgs00/eisgs001/trace/eisgs001_j006_28278.trc: ORA-01013: пользователем запрошена отмена текущей операции
+2024-12-04 16:31:33 utils.logparser                INFO     error string is opidrv aborting process J003 ospid (27963) as a result of ORA-1013
+2024-12-04 16:31:33 utils.logparser                INFO     error string is 2024-09-02T18:14:44.698180+03:00 Errors in file /u01/app/odaorabase/oracle/diag/rdbms/eisgs00/eisgs001/trace/eisgs001_j003_27963.trc: ORA-01013: пользователем запрошена отмена текущей операции
+2024-12-04 16:31:33 utils.logparser                INFO     error string is opidrv aborting process J007 ospid (28291) as a result of ORA-1013
+2024-12-04 16:31:33 utils.logparser                INFO     error string is 2024-09-02T18:14:48.858407+03:00 Errors in file /u01/app/odaorabase/oracle/diag/rdbms/eisgs00/eisgs001/trace/eisgs001_j007_28291.trc: ORA-01013: пользователем запрошена отмена текущей операции
+2024-12-04 16:31:33 utils.logparser                INFO     error string is opidrv aborting process J009 ospid (28417) as a result of ORA-1013
+2024-12-04 16:31:33 utils.logparser                INFO     error string is 2024-09-02T18:14:53.018276+03:00 Errors in file /u01/app/odaorabase/oracle/diag/rdbms/eisgs00/eisgs001/trace/eisgs001_j009_28417.trc: ORA-01013: user requested cancel of current operation
+2024-12-04 16:31:34 utils.logparser                INFO     error string is opiodr aborting process unknown ospid (60941) as a result of ORA-609 TNS-12537: TNS:connection closed     ns secondary err code: 12560   Version 19.15.0.0.0
+2024-12-04 16:31:34 utils.logparser                INFO     error string is 2024-09-04T16:35:04.694710+03:00 Errors in file /u01/app/odaorabase/oracle/diag/rdbms/eisgs00/eisgs001/trace/eisgs001_ora_60941.trc: ORA-00609: could not attach to incoming connection ORA-12537: TNS:connection closed     nt secondary err code: 0     ns main err code: 12537     nt OS err code: 0     
+2024-12-04 16:31:34 utils.logparser                INFO     error string is opiodr aborting process unknown ospid (61223) as a result of ORA-609 TNS-12537: TNS:connection closed     ns secondary err code: 12560
+2024-12-04 16:31:34 utils.logparser                INFO     error string is 2024-09-04T16:35:04.696829+03:00 Errors in file /u01/app/odaorabase/oracle/diag/rdbms/eisgs00/eisgs001/trace/eisgs001_ora_61223.trc: ORA-00609: could not attach to incoming connection ORA-12537: TNS:connection closed     nt OS err code: 0
+2024-12-04 16:31:34 utils.logparser                INFO     error string is opiodr aborting process unknown ospid (60888) as a result of ORA-609
+2024-12-04 16:31:34 utils.logparser                INFO     error string is 2024-09-04T16:35:04.698755+03:00 Errors in file /u01/app/odaorabase/oracle/diag/rdbms/eisgs00/eisgs001/trace/eisgs001_ora_60888.trc: ORA-00609: could not attach to incoming connection ORA-12537: TNS:connection closed
+2024-12-04 16:31:34 utils.logparser                INFO     error string is opiodr aborting process unknown ospid (47154) as a result of ORA-609     nt secondary err code: 0 TNS-00507: Connection closed     nt OS err code: 0     nt secondary err code: 0
+2024-12-04 16:31:34 utils.logparser                INFO     error string is opiodr aborting process unknown ospid (47127) as a result of ORA-609     nt OS err code: 0
+2024-12-04 16:31:34 utils.logparser                INFO     error string is opiodr aborting process unknown ospid (47089) as a result of ORA-609
+2024-12-04 16:31:34 utils.logparser                INFO     error string is 2024-09-05T08:40:09.983244+03:00 Errors in file /u01/app/odaorabase/oracle/diag/rdbms/eisgs00/eisgs001/trace/eisgs001_ora_47154.trc: ORA-00609: could not attach to incoming connection ORA-12537: TNS:connection closed  Fatal NI connect error 12537, connecting to:  (ADDRESS=(PROTOCOL=tcp)(HOST=172.16.224.3)(PORT=64459))
+2024-12-04 16:31:34 utils.logparser                INFO     error string is 2024-09-05T08:40:09.984032+03:00 Errors in file /u01/app/odaorabase/oracle/diag/rdbms/eisgs00/eisgs001/trace/eisgs001_ora_47127.trc: ORA-00609: could not attach to incoming connection ORA-12537: TNS:connection closed    VERSION INFORMATION: 	TNS for Linux: Version 19.0.0.0.0 - Production 	Oracle Bequeath NT Protocol Adapter for Linux: Version 19.0.0.0.0 - Production 	TCP/IP NT Protocol Adapter for Linux: Version 19.0.0.0.0 - Production   Version 19.15.0.0.0
+2024-12-04 16:31:34 utils.logparser                INFO     error string is 2024-09-05T08:40:09.985080+03:00 Errors in file /u01/app/odaorabase/oracle/diag/rdbms/eisgs00/eisgs001/trace/eisgs001_ora_47089.trc: ORA-00609: could not attach to incoming connection ORA-12537: TNS:connection closed
+2024-12-04 16:31:34 utils.logparser                INFO     error string is opiodr aborting process unknown ospid (47070) as a result of ORA-609
+2024-12-04 16:31:34 utils.logparser                INFO     error string is 2024-09-05T08:40:09.991744+03:00 Errors in file /u01/app/odaorabase/oracle/diag/rdbms/eisgs00/eisgs001/trace/eisgs001_ora_47070.trc: ORA-00609: could not attach to incoming connection ORA-12537: TNS:connection closed     
+2024-12-04 16:31:34 utils.logparser                INFO     error string is opiodr aborting process unknown ospid (46997) as a result of ORA-609      TNS-00507: Connection closed     nt secondary err code: 0     nt OS err code: 0
+2024-12-04 16:31:34 utils.logparser                INFO     error string is opiodr aborting process unknown ospid (47108) as a result of ORA-609
+2024-12-04 16:31:34 utils.logparser                INFO     error string is 2024-09-05T08:40:09.995925+03:00 Errors in file /u01/app/odaorabase/oracle/diag/rdbms/eisgs00/eisgs001/trace/eisgs001_ora_46997.trc: ORA-00609: could not attach to incoming connection ORA-12537: TNS:connection closed
+2024-12-04 16:31:34 utils.logparser                INFO     error string is 2024-09-05T08:40:09.997271+03:00 Errors in file /u01/app/odaorabase/oracle/diag/rdbms/eisgs00/eisgs001/trace/eisgs001_ora_47108.trc: ORA-00609: could not attach to incoming connection ORA-12537: TNS:connection closed
+2024-12-04 16:31:34 utils.logparser                INFO     error string is opidrv aborting process J001 ospid (83541) as a result of ORA-1013
+2024-12-04 16:31:34 utils.logparser                INFO     error string is 2024-09-06T17:25:11.736659+03:00 Errors in file /u01/app/odaorabase/oracle/diag/rdbms/eisgs00/eisgs001/trace/eisgs001_j001_83541.trc: ORA-01013: пользователем запрошена отмена текущей операции
+2024-12-04 16:31:34 utils.logparser                INFO     error string is opidrv aborting process J003 ospid (83585) as a result of ORA-1013
+2024-12-04 16:31:34 utils.logparser                INFO     error string is 2024-09-06T17:25:13.851824+03:00 Errors in file /u01/app/odaorabase/oracle/diag/rdbms/eisgs00/eisgs001/trace/eisgs001_j003_83585.trc: ORA-01013: пользователем запрошена отмена текущей операции
+2024-12-04 16:31:34 utils.logparser                INFO     error string is opidrv aborting process J004 ospid (83598) as a result of ORA-1013
+2024-12-04 16:31:34 utils.logparser                INFO     error string is 2024-09-06T17:25:15.908827+03:00 Errors in file /u01/app/odaorabase/oracle/diag/rdbms/eisgs00/eisgs001/trace/eisgs001_j004_83598.trc: ORA-01013: пользователем запрошена отмена текущей операции
+2024-12-04 16:31:34 utils.logparser                INFO     error string is 2024-09-06T17:25:24.121940+03:00 opidrv aborting process J000 ospid (83531) as a result of ORA-1013
+2024-12-04 16:31:34 utils.logparser                INFO     error string is 2024-09-06T17:25:24.122331+03:00 Errors in file /u01/app/odaorabase/oracle/diag/rdbms/eisgs00/eisgs001/trace/eisgs001_j000_83531.trc: ORA-01013: пользователем запрошена отмена текущей операции
+2024-12-04 16:31:34 utils.logparser                INFO     error string is opidrv aborting process J005 ospid (83611) as a result of ORA-1013
+2024-12-04 16:31:34 utils.logparser                INFO     error string is 2024-09-06T17:25:28.282493+03:00 Errors in file /u01/app/odaorabase/oracle/diag/rdbms/eisgs00/eisgs001/trace/eisgs001_j005_83611.trc: ORA-01013: пользователем запрошена отмена текущей операции
+2024-12-04 16:31:34 utils.logparser                INFO     error string is opidrv aborting process J006 ospid (83837) as a result of ORA-1013
+2024-12-04 16:31:34 utils.logparser                INFO     error string is 2024-09-06T17:25:32.442342+03:00 Errors in file /u01/app/odaorabase/oracle/diag/rdbms/eisgs00/eisgs001/trace/eisgs001_j006_83837.trc: ORA-01013: user requested cancel of current operation
+2024-12-04 16:31:34 utils.logparser                INFO     error string is opidrv aborting process J009 ospid (83865) as a result of ORA-1013
+2024-12-04 16:31:34 utils.logparser                INFO     error string is 2024-09-06T17:25:36.602039+03:00 Errors in file /u01/app/odaorabase/oracle/diag/rdbms/eisgs00/eisgs001/trace/eisgs001_j009_83865.trc: ORA-01013: user requested cancel of current operation
+2024-12-04 16:31:34 utils.logparser                INFO     error string is opidrv aborting process J007 ospid (83851) as a result of ORA-1013
+2024-12-04 16:31:34 utils.logparser                INFO     error string is 2024-09-06T17:25:40.442593+03:00 Errors in file /u01/app/odaorabase/oracle/diag/rdbms/eisgs00/eisgs001/trace/eisgs001_j007_83851.trc: ORA-01013: user requested cancel of current operation
+2024-12-04 16:31:36 utils.logparser                INFO     error string is opidrv aborting process J004 ospid (49543) as a result of ORA-1013
+2024-12-04 16:31:36 utils.logparser                INFO     error string is 2024-09-09T09:33:30.607787+03:00 Errors in file /u01/app/odaorabase/oracle/diag/rdbms/eisgs00/eisgs001/trace/eisgs001_j004_49543.trc: ORA-01013: пользователем запрошена отмена текущей операции
+2024-12-04 16:31:36 utils.logparser                INFO     error string is opidrv aborting process J003 ospid (49522) as a result of ORA-1013
+2024-12-04 16:31:36 utils.logparser                INFO     error string is 2024-09-09T09:33:32.633620+03:00 Errors in file /u01/app/odaorabase/oracle/diag/rdbms/eisgs00/eisgs001/trace/eisgs001_j003_49522.trc: ORA-01013: пользователем запрошена отмена текущей операции
+2024-12-04 16:31:36 utils.logparser                INFO     error string is opidrv aborting process J001 ospid (49508) as a result of ORA-1013
+2024-12-04 16:31:36 utils.logparser                INFO     error string is 2024-09-09T09:33:34.698786+03:00 Errors in file /u01/app/odaorabase/oracle/diag/rdbms/eisgs00/eisgs001/trace/eisgs001_j001_49508.trc: ORA-01013: пользователем запрошена отмена текущей операции
+2024-12-04 16:31:36 utils.logparser                INFO     error string is 2024-09-09T09:33:44.025292+03:00 opidrv aborting process J000 ospid (38835) as a result of ORA-1013
+2024-12-04 16:31:36 utils.logparser                INFO     error string is 2024-09-09T09:33:44.025665+03:00 Errors in file /u01/app/odaorabase/oracle/diag/rdbms/eisgs00/eisgs001/trace/eisgs001_j000_38835.trc: ORA-01013: пользователем запрошена отмена текущей операции
+2024-12-04 16:31:36 utils.logparser                INFO     error string is opidrv aborting process J005 ospid (49569) as a result of ORA-1013
+2024-12-04 16:31:36 utils.logparser                INFO     error string is 2024-09-09T09:33:48.058129+03:00 Errors in file /u01/app/odaorabase/oracle/diag/rdbms/eisgs00/eisgs001/trace/eisgs001_j005_49569.trc: ORA-01013: пользователем запрошена отмена текущей операции
+2024-12-04 16:31:36 utils.logparser                INFO     error string is opidrv aborting process J006 ospid (49584) as a result of ORA-1013
+2024-12-04 16:31:36 utils.logparser                INFO     error string is 2024-09-09T09:33:52.281987+03:00 Errors in file /u01/app/odaorabase/oracle/diag/rdbms/eisgs00/eisgs001/trace/eisgs001_j006_49584.trc: ORA-01013: user requested cancel of current operation
+2024-12-04 16:31:36 utils.logparser                INFO     error string is opidrv aborting process J009 ospid (49993) as a result of ORA-1013
+2024-12-04 16:31:36 utils.logparser                INFO     error string is 2024-09-09T09:33:56.441908+03:00 Errors in file /u01/app/odaorabase/oracle/diag/rdbms/eisgs00/eisgs001/trace/eisgs001_j009_49993.trc: ORA-01013: user requested cancel of current operation
+2024-12-04 16:31:36 utils.logparser                INFO     error string is opidrv aborting process J007 ospid (49980) as a result of ORA-1013
+2024-12-04 16:31:36 utils.logparser                INFO     error string is 2024-09-09T09:34:00.601625+03:00 Errors in file /u01/app/odaorabase/oracle/diag/rdbms/eisgs00/eisgs001/trace/eisgs001_j007_49980.trc: ORA-01013: user requested cancel of current operation
+2024-12-04 16:31:36 utils.logparser                INFO     error string is 2024-09-09T09:34:00.601625+03:00 Errors in file /u01/app/odaorabase/oracle/diag/rdbms/eisgs00/eisgs001/trace/eisgs001_j007_49980.trc: ORA-01013: user requested cancel of current operation
+2024-12-04 16:31:37 utils.logparser                INFO     error string is 2024-09-20T15:50:23.978864+03:00 Errors in file /u01/app/odaorabase/oracle/diag/rdbms/eisgs00/eisgs001/trace/eisgs001_ckpt_37270.trc: ORA-15080: synchronous I/O operation failed to write block 855 of disk 0 in disk group DATA ORA-27061: waiting for async I/Os failed Linux-x86_64 Error: 5: Input/output error Additional information: 4294967295 Additional information: 16384
+2024-12-04 16:31:37 utils.logparser                INFO     error string is 2024-09-20T15:50:23.987493+03:00 Errors in file /u01/app/odaorabase/oracle/diag/rdbms/eisgs00/eisgs001/trace/eisgs001_dbw7_37229.trc: ORA-15080: synchronous I/O operation failed to write block 1396704 of disk 0 in disk group DATA ORA-27061: waiting for async I/Os failed Linux-x86_64 Error: 5: Input/output error Additional information: 4294967295
+2024-12-04 16:31:37 utils.logparser                INFO     error string is 2024-09-20T15:50:23.988410+03:00 Errors in file /u01/app/odaorabase/oracle/diag/rdbms/eisgs00/eisgs001/trace/eisgs001_dbw6_37206.trc: ORA-15080: synchronous I/O operation failed to write block 3164024 of disk 0 in disk group DATA ORA-27061: waiting for async I/Os failed Linux-x86_64 Error: 5: Input/output error Additional information: 4294967295
+2024-12-04 16:31:37 utils.logparser                INFO     error string is 2024-09-20T15:50:24.087076+03:00 Errors in file /u01/app/odaorabase/oracle/diag/rdbms/eisgs00/eisgs001/trace/eisgs001_dbw3_37152.trc: ORA-15080: synchronous I/O operation failed to write block 199175 of disk 0 in disk group DATA ORA-27061: waiting for async I/Os failed Linux-x86_64 Error: 5: Input/output error Additional information: 4294967295
+2024-12-04 16:31:37 utils.logparser                INFO     error string is 2024-09-23T10:30:05.795603+03:00 Errors in file /u01/app/odaorabase/oracle/diag/rdbms/eisgs00/eisgs001/trace/eisgs001_dbw7_37229.trc: ORA-15080: synchronous I/O operation failed to write block 3886591 of disk 10 in disk group DATA ORA-27061: waiting for async I/Os failed Linux-x86_64 Error: 5: Input/output error Additional information: 4294967295
+2024-12-04 16:31:37 utils.logparser                INFO     error string is 2024-09-23T10:30:05.795641+03:00 Errors in file /u01/app/odaorabase/oracle/diag/rdbms/eisgs00/eisgs001/trace/eisgs001_dbw3_37152.trc: ORA-15080: synchronous I/O operation failed to write block 1962041 of disk 10 in disk group DATA ORA-27061: waiting for async I/Os failed Linux-x86_64 Error: 5: Input/output error Additional information: 4294967295
+2024-12-04 16:31:37 utils.logparser                INFO     error string is 2024-09-23T10:30:05.795935+03:00 Errors in file /u01/app/odaorabase/oracle/diag/rdbms/eisgs00/eisgs001/trace/eisgs001_dbw6_37206.trc: ORA-15080: synchronous I/O operation failed to write block 3823045 of disk 10 in disk group DATA ORA-27061: waiting for async I/Os failed Linux-x86_64 Error: 5: Input/output error Additional information: 4294967295
+2024-12-04 16:31:37 utils.logparser                INFO     error string is 2024-09-23T10:30:05.804768+03:00 Errors in file /u01/app/odaorabase/oracle/diag/rdbms/eisgs00/eisgs001/trace/eisgs001_ora_26288.trc: ORA-15080: операция синхронного ввода/вывода не может выполнить write блока 2756303 на диске 10 в группе дисков DATA ORA-27061: сбой при ожидании асинхронного ввода/вывода Linux-x86_64 Error: 5: Input/output error Additional information: 4294967295
+2024-12-04 16:31:37 utils.logparser                INFO     error string is Additional information: 8192 ORA-20099: 
+2024-12-04 16:31:37 utils.logparser                INFO     error string is 	 incarnation:0xf0f0b878 synchronous result:'I/O error' 	 subsys:System krq:0x7fc21a033200 bufp:0x7fc21b81c000 osderr1:0x69c0 osderr2:0x0 	 IO elapsed time: 0 usec Time waited on I/O: 0 usec ERROR: cannot read disk header of disk HDD_E0_S10_1615163560P1 (10:4042307704)
+2024-12-04 16:31:37 utils.logparser                INFO     error string is 2024-09-23T10:30:05.820531+03:00 Errors in file /u01/app/odaorabase/oracle/diag/rdbms/eisgs00/eisgs001/trace/eisgs001_dbw1_37110.trc: ORA-15080: synchronous I/O operation failed to write block 3411241 of disk 10 in disk group DATA ORA-27061: waiting for async I/Os failed Linux-x86_64 Error: 5: Input/output error Additional information: 4294967295 Additional information: 16384
+2024-12-04 16:31:37 utils.logparser                INFO     error string is 2024-09-23T10:30:05.826641+03:00 Errors in file /u01/app/odaorabase/oracle/diag/rdbms/eisgs00/eisgs001/trace/eisgs001_dbw0_37098.trc: ORA-15080: synchronous I/O operation failed to write block 2979850 of disk 10 in disk group DATA ORA-27061: waiting for async I/Os failed Linux-x86_64 Error: 5: Input/output error Additional information: 4294967295
+2024-12-04 16:31:37 utils.logparser                INFO     error string is 2024-09-23T10:30:05.841169+03:00 Errors in file /u01/app/odaorabase/oracle/diag/rdbms/eisgs00/eisgs001/trace/eisgs001_dbw4_37167.trc: ORA-15080: synchronous I/O operation failed to write block 3340385 of disk 10 in disk group DATA ORA-27061: waiting for async I/Os failed Linux-x86_64 Error: 5: Input/output error Additional information: 4294967295
+2024-12-04 16:31:37 utils.logparser                INFO     error string is 2024-09-23T10:30:05.900391+03:00 Errors in file /u01/app/odaorabase/oracle/diag/rdbms/eisgs00/eisgs001/trace/eisgs001_dbw2_37130.trc: ORA-15080: synchronous I/O operation failed to write block 3822725 of disk 10 in disk group DATA ORA-27061: waiting for async I/Os failed Linux-x86_64 Error: 5: Input/output error Additional information: 4294967295
+2024-12-04 16:31:37 utils.logparser                INFO     error string is 2024-09-23T10:30:06.184758+03:00 Errors in file /u01/app/odaorabase/oracle/diag/rdbms/eisgs00/eisgs001/trace/eisgs001_dbw6_37206.trc: ORA-15080: synchronous I/O operation failed to write block 1034209 of disk 10 in disk group DATA ORA-27061: waiting for async I/Os failed Linux-x86_64 Error: 5: Input/output error Additional information: 4294967295
+2024-12-04 16:31:37 utils.logparser                INFO     error string is 2024-09-23T10:30:06.184791+03:00 Errors in file /u01/app/odaorabase/oracle/diag/rdbms/eisgs00/eisgs001/trace/eisgs001_dbw2_37130.trc: ORA-15080: synchronous I/O operation failed to write block 3822853 of disk 10 in disk group DATA ORA-27061: waiting for async I/Os failed Linux-x86_64 Error: 5: Input/output error Additional information: 4294967295
+2024-12-04 16:31:37 utils.logparser                INFO     error string is 2024-09-23T10:30:06.191499+03:00 Errors in file /u01/app/odaorabase/oracle/diag/rdbms/eisgs00/eisgs001/trace/eisgs001_dbw7_37229.trc: ORA-15080: synchronous I/O operation failed to write block 1855876 of disk 10 in disk group DATA ORA-27061: waiting for async I/Os failed Linux-x86_64 Error: 5: Input/output error Additional information: 4294967295
+2024-12-04 16:31:37 utils.logparser                INFO     error string is 2024-09-23T10:30:06.284665+03:00 Errors in file /u01/app/odaorabase/oracle/diag/rdbms/eisgs00/eisgs001/trace/eisgs001_dbw3_37152.trc: ORA-15080: synchronous I/O operation failed to write block 729590 of disk 10 in disk group DATA ORA-27061: waiting for async I/Os failed Linux-x86_64 Error: 5: Input/output error Additional information: 4294967295
+2024-12-04 16:31:37 utils.logparser                INFO     error string is 2024-09-23T10:30:06.384842+03:00 Errors in file /u01/app/odaorabase/oracle/diag/rdbms/eisgs00/eisgs001/trace/eisgs001_dbw0_37098.trc: ORA-15080: synchronous I/O operation failed to write block 3765255 of disk 10 in disk group DATA ORA-27061: waiting for async I/Os failed Linux-x86_64 Error: 5: Input/output error Additional information: 4294967295
+2024-12-04 16:31:37 utils.logparser                INFO     error string is 2024-09-23T10:30:06.391193+03:00 Errors in file /u01/app/odaorabase/oracle/diag/rdbms/eisgs00/eisgs001/trace/eisgs001_dbw0_37098.trc: ORA-15080: synchronous I/O operation failed to write block 1594804 of disk 10 in disk group DATA ORA-27061: waiting for async I/Os failed Linux-x86_64 Error: 5: Input/output error Additional information: 4294967295
+2024-12-04 16:31:37 utils.logparser                INFO     error string is 2024-09-24T14:57:45.951973+03:00 ERROR: cannot read disk header of disk HDD_E0_S14_1614862200P1 (4:4042307707)
+2024-12-04 16:31:38 utils.logparser                INFO     error string is 2024-09-27T22:19:34.820230+03:00 ERROR: Unable to get logical block size for spfile '+DATA/EISGS00/PARAMETERFILE/spfile.275.1145877907'. Starting ORACLE instance (normal) (OS id: 52345)
+2024-12-04 16:31:38 utils.logparser                INFO     error string is 2024-09-27T22:19:35.118280+03:00   PAGESIZE  AVAILABLE_PAGES  EXPECTED_PAGES  ALLOCATED_PAGES  ERROR(s)
+2024-12-04 16:31:38 utils.logparser                INFO     error string is Patch Apply Time: 2022-04-26T04:14:26+03:00 Bugs Fixed: 32327201  Patch Id: 33710568 Patch Description: 19.14 DBVM PROVISION DCS-10001 FAILED TO CREATE THE DATABASE PRCZ-4001 PRCZ-2103 [FATAL] ERROR IN PROCESS ?/BIN/ORAPWD
+2024-12-04 16:31:38 utils.logparser                INFO     error string is opidrv aborting process J008 ospid (97345) as a result of ORA-1013
+2024-12-04 16:31:38 utils.logparser                INFO     error string is 2024-09-30T09:01:36.069385+03:00 Errors in file /u01/app/odaorabase/oracle/diag/rdbms/eisgs00/eisgs001/trace/eisgs001_j008_97345.trc: ORA-01013: пользователем запрошена отмена текущей операции
+2024-12-04 16:31:38 utils.logparser                INFO     error string is opidrv aborting process J009 ospid (97516) as a result of ORA-1013
+2024-12-04 16:31:38 utils.logparser                INFO     error string is 2024-09-30T09:01:38.180047+03:00 Errors in file /u01/app/odaorabase/oracle/diag/rdbms/eisgs00/eisgs001/trace/eisgs001_j009_97516.trc: ORA-01013: пользователем запрошена отмена текущей операции
+2024-12-04 16:31:38 utils.logparser                INFO     error string is opidrv aborting process J00A ospid (98165) as a result of ORA-1013
+2024-12-04 16:31:38 utils.logparser                INFO     error string is 2024-09-30T09:01:40.292732+03:00 Errors in file /u01/app/odaorabase/oracle/diag/rdbms/eisgs00/eisgs001/trace/eisgs001_j00a_98165.trc: ORA-01013: пользователем запрошена отмена текущей операции
+2024-12-04 16:31:38 utils.logparser                INFO     error string is opidrv aborting process J003 ospid (93249) as a result of ORA-1013
+2024-12-04 16:31:38 utils.logparser                INFO     error string is 2024-09-30T09:01:48.484516+03:00 Errors in file /u01/app/odaorabase/oracle/diag/rdbms/eisgs00/eisgs001/trace/eisgs001_j003_93249.trc: ORA-01013: пользователем запрошена отмена текущей операции
+2024-12-04 16:31:38 utils.logparser                INFO     error string is opidrv aborting process J006 ospid (93401) as a result of ORA-1013
+2024-12-04 16:31:38 utils.logparser                INFO     error string is 2024-09-30T09:01:50.597767+03:00 Errors in file /u01/app/odaorabase/oracle/diag/rdbms/eisgs00/eisgs001/trace/eisgs001_j006_93401.trc: ORA-01013: пользователем запрошена отмена текущей операции
+2024-12-04 16:31:38 utils.logparser                INFO     error string is opidrv aborting process J005 ospid (93259) as a result of ORA-1013
+2024-12-04 16:31:38 utils.logparser                INFO     error string is 2024-09-30T09:02:00.836275+03:00 Errors in file /u01/app/odaorabase/oracle/diag/rdbms/eisgs00/eisgs001/trace/eisgs001_j005_93259.trc: ORA-01013: user requested cancel of current operation
+2024-12-04 16:31:38 utils.logparser                INFO     error string is opidrv aborting process J007 ospid (97061) as a result of ORA-1013
