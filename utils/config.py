@@ -7,4 +7,6 @@ LOG_DIR = env('LOG_DIR')
 LOG_FILE = env('LOG_FILE')
 LOG_LEVEL = env('LOG_LEVEL')
 
+# Database settings
+DBNAME = 'DB\log.db'
 

@@ -1,8 +1,10 @@
 from fastapi import FastAPI, File, UploadFile, Form, Depends
-from typing import Annotated
+
+
 
 import logging
 from utils.config import LOG_DIR, LOG_FILE, LOG_LEVEL
+from DAO.connection import initDatabase
 import utils.logparser as pars
 
 logging.basicConfig(level=LOG_LEVEL, format='%(asctime)s %(name)-30s %(levelname)-8s %(message)s',
@@ -30,3 +32,9 @@ async def create_upload_file(file: UploadFile = File(), multistring: bool = Form
     if multistring:
         pars.parsMultistring(content)
     return {"filename": file.filename}
+
+@app.post('/initdatabase/')
+async def init_database():
+    logger.info('init database')
+    initDatabase()
+
