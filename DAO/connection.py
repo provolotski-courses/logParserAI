@@ -1,3 +1,6 @@
+import logging
+import time
+
 from utils.config import LOG_DIR, DBNAME, LOG_LEVEL
 import sqlite3
 
@@ -28,8 +31,26 @@ def initDatabase():
     finally:
         connection.commit()
         connection.close()
+
+
 def load_log(filename):
     connection = sqlite3.connect(DBNAME)
     cursor = connection.cursor()
+    sql = 'insert into Loaded_log(filename,dateload) values (?,?) returning id'
+    cursor.execute(sql, (filename, time.time()))
+    row = cursor.fetchone()
+    cursor.close()
+    connection.commit()
+    connection.close()
+    return row[0] if row is not None else None
 
 
+def load_event(date, log_chain, mark, log_id):
+    connection = sqlite3.connect(DBNAME)
+    cursor = connection.cursor()
+    sql = 'insert into log_event (date, log_id,event_class, event) values (?,?,?,?)'
+    logging.info(f'log_id: {log_id}')
+    cursor.execute(sql, (str(date), log_id, mark, str(log_chain)))
+    cursor.close()
+    connection.commit()
+    connection.close()

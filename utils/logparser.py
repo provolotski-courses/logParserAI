@@ -1,6 +1,6 @@
 import logging
 import re
-from datetime import datetime
+from DAO.connection import load_log,load_event
 from dateutil.parser import parse
 from utils.config import LOG_DIR, LOG_FILE, LOG_LEVEL
 import utils.cacheVariables as cacheVariables
@@ -24,12 +24,13 @@ def findErrorinRow(row):
     return bool(re.search(pattern, row))
 
 
-def parsMultistring(file):
+def parsMultistring(file,filename):
     logger.debug(f'Обработка мультистрингового лога')
     if file is None:
         logger.error('Пустой файл')
     else:
         logger.info('файл получен')
+        log_id = load_log(filename)
         logger.info(f'Размер файла {len(file)}')
         row_list = file.split(b'\n')
         item_str = ''
@@ -44,12 +45,12 @@ def parsMultistring(file):
 
             flag, date = findDateInRow(item_row)
             if flag:
-                if findErrorinRow(item_str):
-                    logger.info(f'error string is {item_str}')
-                    if item_str == '2024-09-09T09:34:00.601625+03:00 Errors in file /u01/app/odaorabase/oracle/diag/rdbms/eisgs00/eisgs001/trace/eisgs001_j007_49980.trc: ORA-01013: user requested cancel of current operation':
-                        logger.info(f'error string is {item_str}')
-                item_str = item_row
-
+                if item_str != '':
+                    if findErrorinRow(item_str):
+                        load_event(date,item_str,2,log_id)
+                    else:
+                        load_event(date,item_str,1,log_id)
+                    item_str = item_row
             else:
                 try:
                     item_str += ' '

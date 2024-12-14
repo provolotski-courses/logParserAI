@@ -30,7 +30,7 @@ async def create_upload_file(file: UploadFile = File(), multistring: bool = Form
     logger.debug(f'upload_file {file.filename}, multisting is {multistring}')
     content = await file.read()
     if multistring:
-        pars.parsMultistring(content)
+        pars.parsMultistring(content,file.filename)
     return {"filename": file.filename}
 
 @app.post('/initdatabase/')
